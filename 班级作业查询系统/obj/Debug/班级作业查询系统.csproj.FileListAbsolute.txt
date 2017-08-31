@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\班级作业查询系统\bin\Debug\班级作业查询系统.exe.config
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\bin\Debug\班级作业查询系统.exe.config
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\bin\Debug\班级作业查询系统.exe
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\bin\Debug\班级作业查询系统.pdb
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.csprojResolveAssemblyReference.cache
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.Form1.resources
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.Form2.resources
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.Form3.resources
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.Properties.Resources.resources
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.csproj.GenerateResource.Cache
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.exe
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Debug\班级作业查询系统.pdb

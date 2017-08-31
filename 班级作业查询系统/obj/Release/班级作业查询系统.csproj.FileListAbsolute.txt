@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.Form1.resources
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.Form2.resources
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.Form3.resources
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.Properties.Resources.resources
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\班级作业查询系统\bin\Release\班级作业查询系统.exe.config
+C:\Users\asus\Desktop\班级作业查询系统\bin\Release\班级作业查询系统.exe
+C:\Users\asus\Desktop\班级作业查询系统\bin\Release\班级作业查询系统.pdb
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.exe
+C:\Users\asus\Desktop\班级作业查询系统\obj\Release\班级作业查询系统.pdb
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\bin\Release\班级作业查询系统.exe.config
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Release\班级作业查询系统.exe
+J:\G1考前复习考点总结\G1-C#winform机试模拟\班级作业查询系统\obj\Release\班级作业查询系统.pdb
